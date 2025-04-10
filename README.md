@@ -36,14 +36,6 @@ This project is a complete automation toolkit for Instagram, built using **Pytho
 - Requests
 - ChromeDriver (for browser automation)
 
----
-
-## 📦 Setup Instructions
-
-1. **Clone the repo**
-```bash```
-git clone https://github.com/yourusername/instagram-automation-suite.git
-cd instagram-automation-suite
 
 ---
 
