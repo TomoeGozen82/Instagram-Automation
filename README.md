@@ -49,3 +49,4 @@ cd instagram-automation-suite
 
 ## ⚠️ Disclaimer
 This project is for educational and research purposes only. Automation on Instagram may violate their terms of service. Use responsibly and at your own risk.
+By using this project, you accept full responsibility for your actions. I, Junaid Mansoori, am not liable for any consequences, bans, or misuse.
