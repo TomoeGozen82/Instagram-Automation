@@ -27,6 +27,7 @@ This file stores your **Instagram login credentials**.
 ```ini```
 [login]
 username = your_instagram_username
+
 password = your_instagram_password
 
 
