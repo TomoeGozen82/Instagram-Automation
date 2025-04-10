@@ -47,5 +47,5 @@ cd instagram-automation-suite
 
 ---
 
-##⚠️ Disclaimer
+## ⚠️ Disclaimer
 This project is for educational and research purposes only. Automation on Instagram may violate their terms of service. Use responsibly and at your own risk.
